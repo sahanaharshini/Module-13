@@ -59,5 +59,6 @@ s.peek()
 **OUTPUT**
 <img width="601" height="241" alt="446872149-8aee8dec-95e3-488d-9455-33b130c79fd8" src="https://github.com/user-attachments/assets/3bb63482-ca37-4bb3-b9c6-916e00a60849" />
 
+
 **RESULT**
 Thus the program to implement a stack using a list and its built-in methods has been implemented and executed successfully.
